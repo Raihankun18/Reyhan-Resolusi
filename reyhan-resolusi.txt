@@ -1,0 +1,12 @@
+- Hatam HTML
+- Mengerti CSS Flexbox
+- Mengerti CSS Grid System
+- Mengerti CSS Frameworks
+- Mengerti GIT dan GITHUB
+- Mengerti Javascript
+- Mengerti JAVA
+
+Soft Skill
+- lancar Bahasa Inggris
+- sudah bergabung dengan Enigma Camp
+- uang masih 500 ribu
