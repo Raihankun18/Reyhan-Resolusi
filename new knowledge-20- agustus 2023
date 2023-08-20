@@ -1,0 +1,18 @@
+Pelajar baru yang di dapat pada tanggal 20 agustus 2023 (GITHUB)
+
+studi kasus: branch adalah dimana saya menambahkan file baru tanpa mengubah file reyhan-resolusi. jadi branch ini have a perpose jika
+              didalam repo kita ingin mengimprove sorce code kita baik itu ditambah, dibuang, or mencoba untuk membuat sorce code baru
+              tanpa merusak master branch or dalam konteks ini "source code" utama kita. 
+
+              tapi, jika konteks nya dalam pekerjaan (real) dimana source code utama jika ingin adanya perubahan atau mengimprove dari 
+              aplikasi/web kita/ source code kita jadi dia tidak akan merusak master branch kita, dan nanti kita bisa merge/ digabungkan 
+              dari 1 atau 2 atau lebih ++ brench baru kita dengan pull request dan master branch menerima dan meng merge commit tersebut.
+
+- kita belajar tentang branch
+  branch adalah cabang or jalur bebas diluar master branch yang bisa di merge ke master branch
+- kita juga belajar kosakata baru seperti:
+  + branch
+  + Check out
+  + pull request
+  + Merge
+  + merge confilt
